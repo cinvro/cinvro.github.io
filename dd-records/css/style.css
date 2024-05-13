@@ -95,7 +95,7 @@ p {
 
 p + p {
 	margin:      0;
-	text-indent: 1.9em;
+	text-indent: 0em;
 }
 
 h1 + p {
